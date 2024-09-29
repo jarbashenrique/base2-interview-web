@@ -21,12 +21,6 @@ Antes de rodar os testes, você deve ter instalado em sua máquina:
 - **Chrome Browser** ([download](https://www.google.com/chrome/))
 - **ChromeDriver** compatível com a versão do Chrome instalada ([download](https://sites.google.com/chromium.org/driver/))
 
-Para instalar as dependências do projeto, navegue até a pasta do projeto e execute:
-
-```bash
-dotnet restore
-```
-
 ## Estrutura do Projeto
 
 - **Drivers**: Contém a configuração do ChromeDriver utilizado pelo Selenium.

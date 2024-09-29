@@ -1,0 +1,58 @@
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.pdb
+*.cache
+*.tmp
+*.user
+*.rsuser
+*.suo
+*.ds_store
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Visual Studio files
+.vscode/
+.vs/
+.vscode/*
+.vscode/extensions.json
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# Rider files
+.idea/
+.idea/**
+
+# Selenium WebDriver binaries
+selenium-server-standalone-*.jar
+chromedriver
+geckodriver
+iedriver
+MicrosoftWebDriver
+selenium-server.log
+selenium-server-*.log
+selenium-server/*.log
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+*.tmp

@@ -37,7 +37,7 @@ dotnet restore
 
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone https://github.com/seuusuario/MantisAutomation.git
+   git clone https://github.com/jarbashenrique/base2-interview-web.git
    ```
 
 2. Navegue até a pasta do projeto:
@@ -64,4 +64,4 @@ Os testes serão executados no Google Chrome e você verá os resultados no term
 
 ## Contato
 
-Em caso de dúvidas ou sugestões, entre em contato através do e-mail: **seuemail@exemplo.com**
+Em caso de dúvidas ou sugestões, entre em contato através do e-mail: **[jarbas_96@hotmail.com](mailto:jarbas_96@hotmail.com)**
